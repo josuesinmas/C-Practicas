@@ -1,2 +1,2 @@
-# Clases-particulares
-Son las capetas y codigos que utilizo en mis clases
+# C++ Practicas
+esto sera las practicas que haga con c++ y mis proyectos no profecionales, algoritmos y demas. 
